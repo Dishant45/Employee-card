@@ -104,6 +104,13 @@ nav .hamburger img {
   border-bottom: 3px solid #f1faee;
   transition: 8s;
   transition-property: linear;
+  background: gray;
+  color: white;
+}
+footer {
+  width: 100%;
+  position: relative;
+  bottom: 0px;
 }
 
 .footer-container {
